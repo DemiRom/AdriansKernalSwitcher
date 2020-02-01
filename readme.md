@@ -1,4 +1,4 @@
-Originally written by Adrian Black on his YouTube channel, this firmware allows for on the fly switching of Kernals on the Commodore64 all I did was clean and optimize his code.
+Originally written by Adrian Black on his YouTube channel, this firmware allows for on the fly switching of Kernals on the Commodore micro computer, all I did was clean and optimize his code.
 
 This is untested (since I do not have the hardware to do so) and may have bugs, if you use this version and find issues please report them, and I will fix them.
 
